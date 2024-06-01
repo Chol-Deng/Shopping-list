@@ -3,7 +3,7 @@
 This is a simple shopping list application. 
 It allows users to add items to a list, filter through the list, and clear all items from the list.
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./images/Screenshot.png)
 
 ## Live Preview
 
